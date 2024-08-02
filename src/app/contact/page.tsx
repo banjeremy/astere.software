@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: 'Leave your details and we will get in touch',
 }
 
-export default function About() {
+export default function Contact() {
   return (
     <Container className="mt-16 sm:mt-32">
       <iframe
